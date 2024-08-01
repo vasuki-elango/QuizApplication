@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "question":"Enumeration is a",
+        "options":["List of operations","List of String","Set of numbers","Set of legal value"],
+        "correctoptions":"Set of legal value"
+    },
+    {
+        "id":2,
+        "question":"When static binding occurs?",
+        "options":["compile time","load time","run time","none of"],
+        "correctoptions":"compile time"
+    },
+    {
+        "id":3,
+        "question":"Which of the following is faster StringBuffer or StringBuilderStringBuilder",
+        "options":["StringBuilder","StringBuffer","Both of the"],
+        "correctoptions":"StringBuilder"
+    },
+    {
+        "id":4,
+        "question":"What is the defalut value of long variable",
+        "options":["0","0.0","0L","nont defined"],
+        "correctoptions":"0L"
+    },
+    {
+        "id":5,
+        "question":"What keyword is used to declare a variable that does not change its value?",
+        "options":["final","static","const","var"],
+        "correctoptions":"final"
+    },
+    {
+        "id":6,
+        "question":"What is the result of the expression:5+3*2?",
+        "options":["10","11","13","26"],
+        "correctoptions":"11"
+    },
+    {
+        "id":7,
+        "question":"What does JVM stand for?",
+        "options":["Java Virtual Machine","Java Visual Model","Java Variable Manager"],
+        "correctoptions":"Java Virtual Machine"
+    },
+    {
+        "id":8,
+        "question":"Which of these allows compiletime polymorphism?",
+        "options":["Method overloading","Method overridding","Both"],
+        "correctoptions":"Method overloading"
+    },
+    {
+        "id":9,
+        "question":"Which class is used to create a sever socket?",
+        "options":["socket","ServerSocket","NetSocket","HostSocket"],
+        "correctoptions":"ServerSocket"
+    },
+    {
+        "id":10,
+        "question":"Which of the following is not a terminal operation in the stream APi?",
+        "options":["foreach","map","reduce","collect"],
+        "correctoptions":"map"
+    }
+]
